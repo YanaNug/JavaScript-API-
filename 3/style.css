@@ -19,7 +19,6 @@ body { font-family: monospace,Georgia,Serif; font-weight: 500; font-size: 20px; 
 .image_likes-box { display: flex; justify-content: space-around; gap: 50px; align-items: center; max-width: 220px; margin: 0 auto; }
 
 .image_likes-button { border: none; background: none; cursor: pointer; }
-
 .image_likes-svg:hover { fill: rgb(84, 96, 202); transition: 0.6s ease; }
 
 .image_likes-svg:active path { fill: rgb(212, 240, 201); transition: 0.4s ease; }
